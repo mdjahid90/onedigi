@@ -1,0 +1,22 @@
+{
+  "Profile": "Профиль",
+  "Profile Information": "Информация профиля",
+  "Update your account's profile information and email address.": "Обновите информацию профиля и адрес электронной почты.",
+  "Name": "Имя",
+  "Email": "Email",
+  "Save": "Сохранить",
+  "Saved.": "Сохранено.",
+
+  "Update Password": "Обновить пароль",
+  "Ensure your account is using a long, random password to stay secure.": "Используйте длинный и случайный пароль для безопасности аккаунта.",
+  "Current Password": "Текущий пароль",
+  "New Password": "Новый пароль",
+  "Confirm Password": "Подтвердите пароль",
+
+  "Delete Account": "Удалить аккаунт",
+  "Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.": "После удаления аккаунта все данные будут удалены безвозвратно. Перед удалением скачайте важную информацию.",
+  "Are you sure you want to delete your account?": "Вы уверены, что хотите удалить аккаунт?",
+  "Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.": "После удаления аккаунта все данные будут удалены безвозвратно. Введите пароль для подтверждения.",
+  "Password": "Пароль",
+  "Cancel": "Отмена"
+}

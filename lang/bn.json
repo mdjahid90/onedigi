@@ -1,0 +1,22 @@
+{
+  "Profile": "প্রোফাইল",
+  "Profile Information": "প্রোফাইল তথ্য",
+  "Update your account's profile information and email address.": "আপনার অ্যাকাউন্টের প্রোফাইল তথ্য এবং ইমেইল ঠিকানা আপডেট করুন।",
+  "Name": "নাম",
+  "Email": "ইমেইল",
+  "Save": "সেভ করুন",
+  "Saved.": "সেভ হয়েছে।",
+
+  "Update Password": "পাসওয়ার্ড আপডেট করুন",
+  "Ensure your account is using a long, random password to stay secure.": "নিরাপদ থাকতে একটি দীর্ঘ ও শক্তিশালী পাসওয়ার্ড ব্যবহার করুন।",
+  "Current Password": "বর্তমান পাসওয়ার্ড",
+  "New Password": "নতুন পাসওয়ার্ড",
+  "Confirm Password": "পাসওয়ার্ড নিশ্চিত করুন",
+
+  "Delete Account": "অ্যাকাউন্ট ডিলিট করুন",
+  "Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.": "আপনার অ্যাকাউন্ট ডিলিট করলে এর সব ডাটা স্থায়ীভাবে মুছে যাবে। ডিলিট করার আগে প্রয়োজনীয় ডাটা/তথ্য ডাউনলোড করে নিন।",
+  "Are you sure you want to delete your account?": "আপনি কি নিশ্চিত আপনার অ্যাকাউন্ট ডিলিট করতে চান?",
+  "Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.": "আপনার অ্যাকাউন্ট ডিলিট করলে সব ডাটা স্থায়ীভাবে মুছে যাবে। নিশ্চিত করতে আপনার পাসওয়ার্ড দিন।",
+  "Password": "পাসওয়ার্ড",
+  "Cancel": "ক্যানসেল"
+}
